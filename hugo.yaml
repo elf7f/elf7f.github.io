@@ -25,7 +25,7 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
-      记录开发过程中的问题、排查与实现。  
+      记录开发中的问题、思路与实现细节。
 
   ShowReadingTime: true
   ShowShareButtons: false
